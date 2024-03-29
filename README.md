@@ -1,5 +1,5 @@
 # Cypress.js
-1.Как запустить?
+1.Как запустить? /n
 2.Установить node.js: https://nodejs.org/en/download/
 3.Скачать проект из github и открыть в IDE (например, sublime):
 4.Запустить команду в гитбаше (в папке cypress): npm install
